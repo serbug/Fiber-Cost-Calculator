@@ -14,3 +14,7 @@ Pentru a conecta toate aceste complexe folosind cât mai puține resurse (cablu)
 de internet cât mai bună.
 
 Limbaj de programare: C#
+
+![Capture](https://user-images.githubusercontent.com/29666298/130686193-1a8c7aaf-6066-451c-9f96-4ca2b9d0ae88.PNG)
+
+![Capture3](https://user-images.githubusercontent.com/29666298/130686240-5dfc7d36-6368-46cd-bad6-4e56568fbac2.PNG)
