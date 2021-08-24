@@ -13,4 +13,4 @@ rețele de cablu pentrumai multe complexe locative care necesită conectarea la 
 Pentru a conecta toate aceste complexe folosind cât mai puține resurse (cablu) și o conexiune
 de internet cât mai bună.
 
-Limbaj de programa: C#
+Limbaj de programare: C#
